@@ -94,3 +94,4 @@ const Newsletter = ({ darkMode }) => {
 };
 
 export default Newsletter;
+// end newsLetter
