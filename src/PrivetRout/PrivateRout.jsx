@@ -8,6 +8,7 @@ const PrivateRout = ({ children }) => {
     const { User, loading } = useContext(AuthContext);
     const location = useLocation();
     console.log(location);
+    // loading conditions
     if (loading) {
         return <Loading></Loading>
     }
