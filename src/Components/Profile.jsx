@@ -224,7 +224,7 @@ const Profile = () => {
     return (
         <div className="h-screen flex bg-gray-900 text-white">
             <Helmet>
-                <title>Profile | {User?.displayName} | Visa Quest</title>
+                <title>Profile | {User?.displayName} | Visa Quest*</title>
             </Helmet>
             <aside
                 className={`bg-[rgb(0,0,31)] fixed lg:relative ${isSidebarOpen ? "translate-x-0" : "-translate-x-full"
