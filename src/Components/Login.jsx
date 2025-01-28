@@ -8,7 +8,7 @@ import { FaGoogle } from "react-icons/fa";
 import { Link, useNavigate } from 'react-router';
 import { AuthContext } from '../AuthContext/AuthProvider';
 import Swal from 'sweetalert2';
-import Loading from './Loading';
+
 import { Helmet } from 'react-helmet';
 
 
@@ -152,7 +152,7 @@ const Login = () => {
 
                                 <div className="mt-4 text-sm text-purple-50">
                                     <h1 className="text-center  font-medium text-gray-700 mt-4">
-                                        Don’t Have an Account?{" "}
+                                        Don’t Have an a Account?{" "}
                                         <Link
                                             to="/register"
                                             className="text-blue-700 font-semibold underline hover:text-blue-900 transition-colors duration-300"
