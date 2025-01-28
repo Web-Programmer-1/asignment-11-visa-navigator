@@ -83,7 +83,7 @@ const MyApplicationVisaCard = ({ myVisa, filterData, setFilterData }) => {
                 </div>
                 <div className="flex items-center space-x-2 capitalize">
                     <FaDollarSign className="text-red-400" />
-                    <span className='flex items-center'>Total Fees: <strong className='flex items-center'> <FaDollarSign className="text-red-400" /> {Fee}</strong></span>
+                    <span className='flex items-center'>Total Fee: <strong className='flex items-center'> <FaDollarSign className="text-red-400" /> {Fee}</strong></span>
                 </div>
                 <div className="flex items-center space-x-2 capitalize">
                     <FaCalendarAlt className="text-purple-400" />
