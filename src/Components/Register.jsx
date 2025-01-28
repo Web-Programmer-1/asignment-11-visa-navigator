@@ -258,7 +258,7 @@ const Register = () => {
                                             className="mt-5 w-full  mx-auto bg-gradient-to-r from-purple-500 to-indigo-500 text-white font-bold py-3 px-6 flex items-center justify-center rounded-lg shadow-lg cursor-pointer"
                                         >
                                             <FaGoogle className="mr-2 text-lg" />
-                                            <span>Register With Google</span>
+                                            <span>Register a With Google</span>
                                         </motion.button>
                                     </div>
                                     <div className="mt-4 text-sm text-purple-50">
