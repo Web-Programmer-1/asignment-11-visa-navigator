@@ -17,7 +17,7 @@ const MyAddedVisas = () => {
     return (
         <div className='w-full min-h-screen bg-[rgb(0,0,31)] '>
             <Helmet>
-                <title>My Added Visa | Visa Quest</title>
+                <title>My Added Visa | Visa Quest*</title>
             </Helmet>
             <div className="text-2xl md:text-4xl font-bold text-center pt-6 pb-2 text-purple-100 ">
                 My Added Visas
