@@ -213,7 +213,7 @@ const Profile = () => {
                     </li>
                     <li className="flex items-center">
                         <button className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg shadow-lg">
-                            Deactivate Account
+                            Deactivate an Account
                         </button>
                     </li>
                 </ul>
