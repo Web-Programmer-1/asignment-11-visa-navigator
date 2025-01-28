@@ -8,6 +8,7 @@ const UpdateProfile = () => {
 
     const navigate = useNavigate();
     const [success, setSuccess] = useState(false);
+    // handleSubmit
 
     const handlesubmit = e => {
         e.preventDefault();
